@@ -22,7 +22,7 @@ import java.util.List;
 public class MybatisGenerator {
     public static void main(String[] args) throws URISyntaxException {
         try {
-            //112
+            //1123
             List<String> warnings = new ArrayList<String>();
             boolean overwrite = true;
             ClassLoader classloader = Thread.currentThread().getContextClassLoader();
